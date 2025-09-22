@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robot/msg/ArmPosition.msg
+// generated code does not contain a copyright notice
+
+
+module robot {
+  module msg {
+    struct ArmPosition {
+      uint16 arm_positions;
+    };
+  };
+};
